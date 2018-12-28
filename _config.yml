@@ -27,5 +27,6 @@ paginate:         5
 
 # Links:
 links:
-  - title: News
-    url: /news
+  - title: cite-architecture.org
+    url: http://cite-architecture.org
+    external: true
